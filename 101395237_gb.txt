@@ -1,0 +1,17 @@
+https://github.com/ismayilyashar/COMP2156_Group13_Assignment.git
+
+Information about George Brown College.
+
+George Brown College is a public, fully accredited college of applied arts and technology located in Toronto, Ontario, Canada. 
+Established in Nineteen Sixty Seven, the college was named after George Brown, a 19th-century Scottish-born Canadian journalist, politician, 
+and one of the Fathers of Confederation. The college offers a wide range of programs across several fields, including arts and design, 
+business, community services, early childhood education, construction and engineering technologies, health sciences, hospitality 
+and culinary arts, and preparatory studies. George Brown College is known for its strong emphasis on experiential learning, 
+offering co-op programs, field placements, industry partnerships, and state-of-the-art facilities to ensure that students gain 
+practical, hands-on experience in their field of study. Its central location in Toronto, one of Canada's largest and most diverse 
+cities, provides students with numerous opportunities for networking, employment, and cultural experiences. The college serves 
+about 30K full-time students and thousands more part-time learners through its three main campuses: St. James, Waterfront, 
+and Casa Loma. Each campus is known for specializing in particular fields of study, with state-of-the-art facilities designed
+to meet the needs of the programs offered. George Brown also has a significant international student population, 
+offering a variety of services and programs to support their integration and success in Canada. The college's commitment to diversity,
+inclusivity, and accessibility is reflected in its wide range of programs, services, and community partnerships.
