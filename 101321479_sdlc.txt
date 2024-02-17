@@ -1,6 +1,15 @@
 https://github.com/ismayilyashar/COMP2156_Group13_Assignment.git
 
 
+Learning DevOps engineering is crucial in modern software development cycles due to several reasons:
+
+Increased Collaboration: DevOps emphasizes collaboration and communication between development and operations teams. By learning DevOps principles and practices, engineers can break down silos between these teams, leading to improved efficiency and productivity throughout the software development lifecycle.
+
+Faster Delivery: DevOps practices such as continuous integration (CI) and continuous delivery (CD) automate the process of building, testing, and deploying software. By integrating these practices into the development cycle, engineers can accelerate the delivery of software updates and features, enabling faster time-to-market and more frequent releases.
+
+Improved Quality: Automation in DevOps helps ensure consistent and reliable software deployments. By automating testing, configuration management, and infrastructure provisioning, engineers can identify and fix issues earlier in the development process, leading to higher-quality software products.
+
+
 
 
 
