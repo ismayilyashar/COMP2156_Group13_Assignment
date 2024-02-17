@@ -3,6 +3,6 @@
 This repository belongs to Group13 
 Group members:
 - Ismayil Mammadov (ID# 101395237)
-- Tom Seitkhanov
+- Tom Seitkhanov   (ID# 101372607)
 - Muhammad Yasir   (ID# 101321479)
 #eskinder Kebede
