@@ -1,0 +1,1 @@
+echo "Information about George Brown College." > 101321479_gb.txt
