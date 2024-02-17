@@ -1,0 +1,10 @@
+https://github.com/ismayilyashar/COMP2156_Group13_Assignment.git
+
+Some information about the importance of learning DevOps engineer in SDLC.
+
+Learning DevOps in the Software Development Life Cycle (SDLC) is crucial for enhancing collaboration between development and 
+operations teams, ensuring faster deployment of code with higher quality and reliability. DevOps practices integrate development and 
+operations activities to reduce the time from development to operation, enabling continuous delivery and faster feedback loops. 
+This approach fosters a culture of continuous improvement, reduces silos, increases efficiency, and 
+improves the overall quality of software products. By adopting DevOps, organizations can better respond to market demands, 
+improve customer satisfaction, and gain a competitive edge.
