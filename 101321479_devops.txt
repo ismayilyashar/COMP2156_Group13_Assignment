@@ -1,0 +1,3 @@
+echo "Information about George Brown College." > StudentID_gb.txt
+git add StudentID_gb.txt
+git commit -m "Add George Brown College information"
