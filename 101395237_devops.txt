@@ -1,0 +1,12 @@
+https://github.com/ismayilyashar/COMP2156_Group13_Assignment.git
+
+Some information about COMP2156 - DevOps Class at George Brown College.
+
+Information about COMP2156 DevOps Class.
+
+
+The COMP2156 course at George Brown College is part of the Computer Systems Technology Program (T147), 
+and it focuses on DevOps for System Administration. This course is offered in the fourth semester of the program. 
+The Computer Systems Technology program itself is a three-year program leading to an Ontario College Advanced Diploma, 
+with specializations available in Networking and Systems in the third year. The course and program emphasize hands-on experience
+in infrastructure virtualization, cloud computing, and best practices in IT, preparing students for various industry certifications.
