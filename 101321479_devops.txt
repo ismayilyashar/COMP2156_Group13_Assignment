@@ -1,3 +1,6 @@
-echo "Information about George Brown College." > StudentID_gb.txt
-git add StudentID_gb.txt
-git commit -m "Add George Brown College information"
+
+
+
+About COMP2156
+
+The COMP2156 course at George Brown College is an integral part of the curriculum, offering students a comprehensive understanding of DevOps practices and methodologies. This course focuses on equipping students with the necessary skills and knowledge to thrive in the rapidly evolving field of software development and IT operations.
