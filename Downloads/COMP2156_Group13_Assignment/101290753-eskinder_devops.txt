@@ -1,4 +1,5 @@
-# Understand basic concepts, values, and principles of DevOps for successful digital transformation.
+##DevOps solutions provided by various cloud providers e.g. Azure, AWS, and, GCP. Understand basic concepts, values, and principles of DevOps for successful digital transformation. Learning DevOps tools through practice labs and working examples to understand its application e.g. Git, Maven, Junit, Jenkins, Ansible, Terraform, Docker, Kubernetes (K8), Nagios etc.
+ Understand basic concepts, values, and principles of DevOps for successful digital transformation.
 # Learning DevOps tools through practice labs and working examples to understand its application e.g. Git, Maven, Junit, Jenkins, Ansible, Terraform, Docker, Kubernetes (K8), Nagios etc.
 # Learn and explore DevOps solutions provided by various cloud providers e.g. Azure, AWS, and, GCP.
 # Describe the ecosystem and models of DevOps architecture (monolithic vs microservices architecture).
